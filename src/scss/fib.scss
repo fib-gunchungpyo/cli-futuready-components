@@ -1,0 +1,9 @@
+@import "../../node_modules/bulma/sass/utilities/_all.sass";
+
+// variable overide goes here
+@import "variable.scss";
+
+@import "../../node_modules/bulma/bulma.sass";
+@import "../../node_modules/buefy/src/scss/buefy.scss";
+
+// overide global styles from `./components/*`
