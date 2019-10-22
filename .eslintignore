@@ -1,4 +1,5 @@
 /dist/
 /dist_doc/
+/dist_storybook/
 /cypress/
 /coverage/

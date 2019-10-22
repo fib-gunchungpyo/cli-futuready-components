@@ -2,6 +2,7 @@
 node_modules
 /dist
 /dist_doc
+/dist_storybook
 
 # local env files
 .env.local

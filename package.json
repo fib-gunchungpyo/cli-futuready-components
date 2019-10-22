@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build:doc": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
     "storybook": "start-storybook",
+    "build:storybook": "build-storybook -c .storybook -o dist_storybook",
     "build:js": "rollup -c --environment BUILD:production",
     "build:css": "node-sass src/scss/fib.scss dist/fib.min.css --output-style compressed",
     "build:lib": "npm run build:js && npm run build:css"
