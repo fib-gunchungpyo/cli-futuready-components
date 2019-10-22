@@ -1,0 +1,37 @@
+.button {
+  &.is-primary:not(.is-outlined):not(.is-inverted) {
+    span {
+      color: #fff;
+    }
+  }
+  &.is-success:not(.is-outlined):not(.is-inverted) {
+    span {
+      color: #fff;
+    }
+  }
+  &.is-danger:not(.is-outlined):not(.is-inverted) {
+    span {
+      color: #fff;
+    }
+  }
+  &.is-link:not(.is-outlined):not(.is-inverted) {
+    span {
+      color: #fff;
+    }
+  }
+  &.is-warning:not(.is-outlined):not(.is-inverted) {
+    span {
+      color: #fff;
+    }
+  }
+  &.is-info:not(.is-outlined):not(.is-inverted) {
+    span {
+      color: #fff;
+    }
+  }
+  &.is-dart:not(.is-outlined):not(.is-inverted) {
+    span {
+      color: #fff;
+    }
+  }
+}

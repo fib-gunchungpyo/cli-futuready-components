@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies docs for production
 ```
 npm run build
 ```
@@ -23,6 +23,11 @@ npm run test:unit
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### To generate Library
+```
+npm run build:lib
 ```
 
 ### Customize configuration

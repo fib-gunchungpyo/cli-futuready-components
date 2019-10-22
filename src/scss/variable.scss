@@ -1,0 +1,13 @@
+// Set your brand colors
+$blue: #1665d8;
+$green: #34aa44;
+
+// Update Bulma's global variables
+$family-sans-serif: "Nunito", sans-serif;
+$primary: $blue;
+$link: $green;
+
+// Update some of Bulma's component variables
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
